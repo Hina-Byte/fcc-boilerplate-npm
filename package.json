@@ -4,6 +4,7 @@
     "author": "romina",
 	"description": "Proyecto de práctica para los desafíos de FreeCodeCamp",
 	"keywords": ["freecodecamp", "node", "npm", "backend"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
